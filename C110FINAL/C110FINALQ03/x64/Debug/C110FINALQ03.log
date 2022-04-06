@@ -1,0 +1,3 @@
+﻿  main.c
+D:\C110FINAL\C110FINALQ03\func.h(52,23): warning C4013: 'StoI' 未定義; 假設 extern 傳回整數
+  C110FINALQ03.vcxproj -> D:\C110FINAL\x64\Debug\C110FINALQ03.exe

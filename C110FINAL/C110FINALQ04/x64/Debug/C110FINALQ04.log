@@ -1,0 +1,4 @@
+﻿  main.c
+D:\C110FINAL\C110FINALQ04\main.c(65): warning C4715: 'RightIsWall': 不是所有控制路徑都傳回值
+D:\C110FINAL\C110FINALQ04\main.c(51): warning C4715: 'FrontIsWall': 不是所有控制路徑都傳回值
+  C110FINALQ04.vcxproj -> D:\C110FINAL\x64\Debug\C110FINALQ04.exe

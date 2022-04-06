@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\linne\Documents\學校課程資料\程式設計\C110FINAL\C110FINALQ02\main.c(19,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\linne\Documents\學校課程資料\程式設計\C110FINAL\C110FINALQ02\main.c(20,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\linne\Documents\學校課程資料\程式設計\C110FINAL\C110FINALQ02\main.c(21,1): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  C110FINALQ02.vcxproj -> C:\Users\linne\Documents\學校課程資料\程式設計\C110FINAL\x64\Debug\C110FINALQ02.exe
