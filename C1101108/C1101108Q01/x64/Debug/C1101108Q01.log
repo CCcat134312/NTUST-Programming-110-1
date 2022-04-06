@@ -1,0 +1,14 @@
+﻿  main.c
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(14,26): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(15,26): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(16,29): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(24,22): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(25,22): warning C4047: '=': 'char *' 與 'char' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(26,25): warning C4047: '=': 'char *' 與 'int' 間接取值的層級不同
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'char *'
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4313: 'printf': 格式字串中的 '%d' 與類型 'char *' 的引數 1 衝突
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4477: 'printf' : 格式字串 '%c' 需要 'int' 類型的引數，但 variadic 引數 2 的類型為 'char *'
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4313: 'printf': 格式字串中的 '%c' 與類型 'char *' 的引數 2 衝突
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4477: 'printf' : 格式字串 '%c' 需要 'int' 類型的引數，但 variadic 引數 3 的類型為 'char *'
+C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\C1101108Q01\main.c(47,16): warning C4313: 'printf': 格式字串中的 '%c' 與類型 'char *' 的引數 3 衝突
+  C1101108Q01.vcxproj -> C:\Users\linne\Documents\學校課程資料\VS競試\C1101108\x64\Debug\C1101108Q01.exe
