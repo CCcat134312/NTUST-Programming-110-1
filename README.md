@@ -3,5 +3,5 @@
 僅供參考，若有更好的寫法歡迎分享！
 
 # 注意
-安裝 Visual Studio 插件 HBK.Judge.VSExtension
-註冊帳號並登入後才可以檢視題目
+1. 安裝 Visual Studio 插件 HBK.Judge.VSExtension  
+2. 註冊帳號並登入後才可以檢視題目
